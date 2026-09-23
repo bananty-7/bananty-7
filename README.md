@@ -36,7 +36,7 @@ A full-stack system where doctors upload medical images that are end-to-end encr
 
 - GitHub: [@bananty-7](https://github.com/bananty-7)
 - Email: ahmedbanantor@gmail.com   
-- LinkedIn: https://www.linkedin.com/in/banantor-ahmed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHeytrVIUQ02%2BqF%2FIvnzVCA%3D%3D
+- LinkedIn: https://www.linkedin.com/in/banantor-ahmed/
 
 ---
 
